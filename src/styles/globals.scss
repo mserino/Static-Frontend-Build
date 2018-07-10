@@ -1,0 +1,15 @@
+body {
+  font-family: $regular;
+  margin: 0;
+}
+
+.container {
+  max-width: $max-width;
+  margin: 0 auto;
+}
+
+.title {
+  background-color: $dodgerblue;
+  color: $white;
+  font-family: $bold;
+}
